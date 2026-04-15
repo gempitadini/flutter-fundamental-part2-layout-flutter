@@ -1,17 +1,15 @@
-# layout_flutter
+# Laporan Praktikum Flutter - Layout Flutter
 
-A new Flutter project.
+**Nama**    : Gempita Fitri Nurdini  
+**Kelas**   : SIB 2F  
+**Absen**   : 12  
+**NIM**     : 244107060083  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Praktikum 1: Membangun Layout di Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Pada tahap ini saya membuat layout sederhana menggunakan Flutter dengan widget Row, Column, Container, dan Expanded. Layout tersebut digunakan untuk menampilkan informasi wisata Labuan Bajo seperti gambar, judul, lokasi, rating, tombol aksi, dan deskripsi.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pada tahap ini saya juga mempelajari cara mengatur posisi elemen menggunakan Row dan Column, serta memberikan jarak menggunakan padding agar tampilan lebih rapi.
+![Screenshot layout_flutter](images/F2.P1.png)

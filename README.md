@@ -12,4 +12,4 @@
 Pada tahap ini saya membuat layout sederhana menggunakan Flutter dengan widget Row, Column, Container, dan Expanded. Layout tersebut digunakan untuk menampilkan informasi wisata Labuan Bajo seperti gambar, judul, lokasi, rating, tombol aksi, dan deskripsi.
 
 Pada tahap ini saya juga mempelajari cara mengatur posisi elemen menggunakan Row dan Column, serta memberikan jarak menggunakan padding agar tampilan lebih rapi.
-![Screenshot layout_flutter](images/f2.p1.png)
+![Screenshot layout_flutter](images/F2.P1.png)

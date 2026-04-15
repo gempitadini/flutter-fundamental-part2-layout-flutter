@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         body: ListView(
           children: [
             Image.asset(
-              'assets/laboanBajo.jpg',
+              'assets/labuanBajo.jpg',
               width: 600,
               height: 240,
               fit: BoxFit.cover,
@@ -43,7 +43,7 @@ Widget titleSection = Container(
             Container(
               padding: const EdgeInsets.only(bottom: 8),
               child: const Text(
-                'Laboan Bajo',
+                'Labuan Bajo',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                 ),
